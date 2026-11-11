@@ -1,0 +1,3 @@
+- [x] wire up the sandbox server
+- [ ] point an MCP client at it
+- [ ] add a second demo file
